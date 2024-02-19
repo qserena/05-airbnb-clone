@@ -1,8 +1,19 @@
-# React + Vite
+# Airbnb clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This app fetches a random image from the and let you create your own meme by combine the image with your own text.
 
-Currently, two official plugins are available:
+<br/>
+<img src="airbnb-clone.png" alt="Screenshot of website." width="400px"/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Live link
+The application is deployed here:
+[https://toms-airbnb.netlify.app](https://toms-airbnb.netlify.app)
+
+Please feel free to click around and explore!
