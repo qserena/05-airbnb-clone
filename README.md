@@ -1,7 +1,7 @@
 # Airbnb clone
 
 ## Description
-This app fetches a random image from the and let you create your own meme by combine the image with your own text.
+This app is an exercise in data-driven React, where texts and images in an array of objects are passed as props to the Cards at the bottom of the page.
 
 <br/>
 <img src="airbnb-clone.png" alt="Screenshot of website." width="400px"/>
