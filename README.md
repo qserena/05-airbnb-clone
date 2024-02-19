@@ -1,7 +1,9 @@
 # Airbnb clone
 
 ## Description
-This app is an exercise in data-driven React, where texts and images in an array of objects are passed as props to the Cards at the bottom of the page.
+This app is an exercise in data-driven React. 
+
+The texts and images in an array of objects are passed as props to the Cards at the bottom of the page.
 
 <br/>
 <img src="airbnb-clone.png" alt="Screenshot of website." width="400px"/>
