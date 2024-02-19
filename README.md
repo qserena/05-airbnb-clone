@@ -4,7 +4,7 @@
 This app fetches a random image from the and let you create your own meme by combine the image with your own text.
 
 <br/>
-<img src="airbnb-clone.png" alt="Screenshot of website." style="border: 2px solid #0c0c0c;" width="400px"/>
+<img src="airbnb-clone.png" alt="Screenshot of website." width="400px"/>
 
 ## Technologies
 - HTML
